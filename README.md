@@ -7,7 +7,7 @@ Hi! I'm Gulsah Yorulmaz. I am a computer engineering student at ITU 🐝
 - 📫 Contact: *yrlmzglsh@gmail.com*
 - 💜 Hobbies: Coding, Searching&Learning, Developing, Gaming                                  
 
-- 🎓 Skills: **C // C++ // C#**
+- 🎓 Skills: **C // C++ // C# // HTML // CSS**
 
 - 👔 Social: [linkedin](https://www.linkedin.com/in/gulsahyorulmaz/)
 
