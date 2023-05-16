@@ -2,7 +2,7 @@
 
 Hi! I'm Gulsah Yorulmaz. I am a computer engineering student at ITU 🐝
                            
-- 👯 Looking for intern.
+- 👯 Looking for internship as backend developer.
 - 💬 You can ask me about C, C++ and Algorithms.
 - 📫 Contact: *yrlmzglsh@gmail.com*
 - 💜 Hobbies: Coding, Searching&Learning, Developing, Gaming                                  
