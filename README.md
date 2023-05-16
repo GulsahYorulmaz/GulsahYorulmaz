@@ -1,5 +1,3 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=gulsahyorulmaz)
-
 ![](https://komarev.com/ghpvc/?username=gulsahyorulmaz&color=yellow&style=flat-square)
 ### Welcome! 👋
 
