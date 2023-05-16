@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=gulsahyorulmaz&color=yellow&style=flat-square)
 ### Welcome! 👋
 
 Hi! I'm Gulsah Yorulmaz. I am a computer engineering student at ITU 🐝
