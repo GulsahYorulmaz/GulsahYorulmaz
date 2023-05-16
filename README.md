@@ -14,6 +14,7 @@ Hi! I'm Gulsah Yorulmaz. I am a computer engineering student at ITU 🐝
 ⚒️ My GitHub Stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=gulsahyorulmaz)
+<br>
 ![](https://komarev.com/ghpvc/?username=gulsahyorulmaz&color=yellow&style=flat-square)
 <!--
 
