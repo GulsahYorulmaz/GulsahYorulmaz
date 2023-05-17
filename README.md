@@ -9,7 +9,7 @@ Hi! I'm Gulsah Yorulmaz. I am a computer engineering student at ITU 🐝
 
 - 🎓 Skills: **C // C++ // C# // Python // HTML // CSS // JavaScript**
 
-- 👔 Social: [linkedin](https://www.linkedin.com/in/gulsahyorulmaz/)
+- 👔 Social: [LinkedIn](https://www.linkedin.com/in/gulsahyorulmaz/)
 
 ⚒️ My GitHub Stats:
 
